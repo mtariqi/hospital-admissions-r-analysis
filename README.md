@@ -19,8 +19,8 @@ type, department, ward, bed grade, and admission deposit — including
 cross-tabulation, group-level aggregation, and a correlation hypothesis
 test between bed grade and admission deposit.
 
-**Author:** Md Tariqul Islam (Tariq) · Metro College, Data Science (R Programming)
-**Submitted to:** Dr. Tareq Jaber
+**Author:** Md Tariqul Islam (Tariq) · Data Science (R Programming)
+
 
 ---
 
